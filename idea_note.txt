@@ -1,0 +1,25 @@
+S W G
+1 2 3
+
+  S W G
+1 d w l
+2 l d w
+3 w l d
+
+d w l
+0 1 2
+
+      S W G
+
+S`    0 1 2
+W`    2 0 1
+G`    1 2 0
+
+2 vs 1
+Gun Vs Water
+1 vs 2
+Water Vs Gun
+0 vs 1
+Snake Vs Water
+1 vs 0
+Water Vs Snake
